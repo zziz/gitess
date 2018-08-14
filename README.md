@@ -1,4 +1,4 @@
-# gitess - The Git essentials
+# gitess - The git essentials
 
 ```
 git config   
